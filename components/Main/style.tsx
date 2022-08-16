@@ -33,6 +33,15 @@ export const styles = StyleSheet.create({
     borderWidth: 1,
   },
 
+  tabelas2: {
+    padding: 10,
+    borderRadius: 10,
+    backgroundColor: "white",
+    marginRight: 10,
+    bordercolor: "silver",
+    borderWidth: 1,
+  },
+
   conteudo1: {
     borderWidth: 2,
     bordercolor: "black",
@@ -49,8 +58,23 @@ export const styles = StyleSheet.create({
     
   },
 
+  conteudo3: {
+    bordercolor: "black",
+    borderWidth: 1,
+    marginTop: 8,
+    
+    
+  },
+
   imagem1: {
     height: "100%",
+    bordercolor: "black",
+    resizeMode : "cover",
+    
+  },
+
+  imagem2: {
+    height: "40%",
     bordercolor: "black",
     resizeMode : "cover",
     

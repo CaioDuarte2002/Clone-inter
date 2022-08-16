@@ -70,6 +70,20 @@ export default function Main() {
 
       <View style={styles.conteudo2}>
         <Text>global account</Text>
+
+<View style = {styles.tabelas2}>
+
+<View style = {styles.conteudo3}>
+  <Image style={styles.imagem2} source={{uri:"https://static.bancointer.com.br/blog/grid-images/a96ebd9ee65c4902befe042c5cece3b1_microsoftteams-image-2.png"}}/>
+</View>
+
+<View style = {styles.conteudo3}>
+<Image style={styles.imagem2} source={{uri:"https://static.bancointer.com.br/blog/banner-images/cfb89200c3244ff5a7c9862d50f0440a_microsoftteams-image-120.png"}}/>
+</View>
+
+
+</View>
+
         </View>
       </View>
       </View>
